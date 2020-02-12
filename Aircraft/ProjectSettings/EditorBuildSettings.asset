@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Aircraft/Scenes/MainMenu.unity
+    guid: f89cc9331ebb7d04297dcacfdb102e1c
+  - enabled: 1
+    path: Assets/Aircraft/Scenes/Desert.unity
+    guid: e219988b8e0f6754792621ada45247c8
+  - enabled: 1
+    path: Assets/Aircraft/Scenes/Snow.unity
+    guid: 4fb6ea2f43a2d1c40bea506f6c9f94a1
+  m_configObjects: {}

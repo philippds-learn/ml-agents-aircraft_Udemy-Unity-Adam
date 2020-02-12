@@ -1,0 +1,3 @@
+mlagents-learn C:\Users\Philipp\Documents\dev\ml-agents-aircraft_Udemy-Unity-Adam\aircraft-mla\config\trainer_config.yaml --curriculum C:\Users\Philipp\Documents\dev\ml-agents-aircraft_Udemy-Unity-Adam\aircraft-mla\config\curricula\aircraft --run-id aircraft_02 --train
+
+tensorboard --logdir=summaries/ --host localhost --port 8088
